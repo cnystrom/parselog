@@ -8,17 +8,11 @@ shell script that slices a month of Apache-style access log.
 
 ## Origin
 
-From Chris Nystrom's old programs page on cactus.org
-(`http://www.cactus.org/~nystrom/programs.html`). The download on that page
-was the shell archive `parselog.01`.
+From Chris Nystrom's old programs page (originally on cactus.org).
+The download on that page was the shell archive `parselog.01`.
 
-Programs page capture:
-
-https://web.archive.org/web/20090106010843/http://outserv.cactus.org/~nystrom/programs.html
-
-File capture used (8 Nov 1997; later recaptures were byte-identical):
-
-https://web.archive.org/web/19971108102532id_/http://www.cactus.org/~nystrom/parselog.01
+https://nystrom.family/chris/old/programs.html
+https://nystrom.family/chris/old/parselog.01
 
 The shar was produced on 24 Oct 1996 by `ccn@snook.cfi.org` with GNU
 sharutils 4.2. `archive.sh` is dated Oct 1996.
