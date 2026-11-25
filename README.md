@@ -13,6 +13,7 @@ The download on that page was the shell archive `parselog.01`.
 
 https://nystrom.family/chris/old/programs.html
 https://nystrom.family/chris/old/parselog.01
+All of Chris's code: https://nystrom.family/chris/code/
 
 The shar was produced on 24 Oct 1996 by `ccn@snook.cfi.org` with GNU
 sharutils 4.2. `archive.sh` is dated Oct 1996.
