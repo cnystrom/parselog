@@ -22,6 +22,8 @@ sharutils 4.2. `archive.sh` is dated Oct 1996.
 
 No license stated in the original.
 
+This work is dedicated to the public domain under the Unlicense; see LICENSE.
+
 ## Notes
 
 `mkweblog.sh` and `weblog.pl` contain local paths and site-specific filters
