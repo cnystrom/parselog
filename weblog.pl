@@ -1,6 +1,6 @@
 #!/usr/local/bin/perl
 
-$webmaster = "webmaster@cfi.org";
+$webmaster = "webmaster@example.com";
 $LOGDIR = "/d3/httpd/logs";
 
 if ($ENV{'REQUEST_METHOD'} eq 'POST') {
