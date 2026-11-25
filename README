@@ -1,0 +1,28 @@
+
+This is a small hack I created to allow content providers on our web server
+to see who is looking at their files on the web server. Well not really,
+becaus you can only see what machine is connected and now what user.
+Anyway, this might take lots of hacking if you are not running your web
+server on a unix machine. It has an HTML file that acts as a front end
+(customize this to your taste). There is also a PERL script to put in
+your cgi-bin directory. You will certainly have to change LOGDIR, and you
+will want to customize the HTML output. Finally, there is also a shell
+script that I run just before midnight every night that grabs just this
+month's entries and creates a separate log file. It also greps out our
+own site and also graphics files as we are not interested in those. Modify
+so that it works for what you want to do. Variable should be set to where
+your files are.
+ 
+Contact Author at:
+ 
+ *
+ *    Chris Nystrom
+ *
+ *    E-Mail: chris@gnu.ai.mit.edu, nystrom@cactus.org, or ccn@cfi.org
+ *
+ 
+My web page:
+ 
+ *    http://www.cfi.org/ccn
+ 
+
