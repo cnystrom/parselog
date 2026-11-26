@@ -1,3 +1,12 @@
+# Archived (2026)
+
+This is Chris Nystrom's 1996 ParseLog web log search, kept as history
+and no longer maintained.
+
+**Do not run this on a live server.** `weblog.pl` builds a shell
+command from the web form's month and keyword (line 36) and runs it
+(line 42), so a visitor can run any command on the server.
+
 # ParseLog
 
 Allows users to see what site has accessed what files on a web server.
